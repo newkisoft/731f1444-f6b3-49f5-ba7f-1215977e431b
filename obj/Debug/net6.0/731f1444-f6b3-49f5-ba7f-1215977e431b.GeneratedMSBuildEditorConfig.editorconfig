@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _731f1444_f6b3_49f5_ba7f_1215977e431b
+build_property.RootNamespace = _731f1444_f6b3_49f5_ba7f_1215977e431b
+build_property.ProjectDir = /media/kianoush/Shared/projects/731f1444-f6b3-49f5-ba7f-1215977e431b/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /media/kianoush/Shared/projects/731f1444-f6b3-49f5-ba7f-1215977e431b
+build_property._RazorSourceGeneratorDebug = 
