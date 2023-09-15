@@ -18,3 +18,13 @@ To get started with this API, follow the instructions below.
 
    ```shell
    git clone git@github.com:newkisoft/731f1444-f6b3-49f5-ba7f-1215977e431b.git
+
+2. run the main project by going to subfolder 731f1444-f6b3-49f5-ba7f-1215977e431b.Tests and using:
+   ```shell
+   dotnet run
+
+   you can go to this link https://localhost:7222/swagger/index.html to see the swagger and use the api
+
+3. run the tests by going to subfolder 731f1444-f6b3-49f5-ba7f-1215977e431b.Tests
+   ```shell
+   dotnet test
