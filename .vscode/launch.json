@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net6.0/731f1444-f6b3-49f5-ba7f-1215977e431b.dll",
+            "program": "${workspaceFolder}/731f1444-f6b3-49f5-ba7f-1215977e431b/731f1444-f6b3-49f5-ba7f-1215977e431b/bin/Debug/net6.0/731f1444-f6b3-49f5-ba7f-1215977e431b.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
